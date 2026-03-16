@@ -1,0 +1,19 @@
+{
+  "updated": "2026-03-14",
+  "squat": {
+    "weight": 80.0,
+    "date": "2026-03-06",
+    "pr": true
+  },
+  "deadlift": {
+    "weight": 77.5,
+    "date": "2026-03-03",
+    "pr": false
+  },
+  "bodyweight": {
+    "current": 83.5,
+    "delta_10d": 1.1
+  },
+  "gym_days_10d": 3,
+  "phase": "GZCLP"
+}
