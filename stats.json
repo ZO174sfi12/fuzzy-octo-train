@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14",
+  "updated": "2026-03-16",
   "squat": {
     "weight": 80.0,
     "date": "2026-03-06",
@@ -11,9 +11,21 @@
     "pr": false
   },
   "bodyweight": {
-    "current": 83.5,
-    "delta_10d": 1.1
+    "current": 84.6,
+    "delta_10d": 1.2
   },
-  "gym_days_10d": 3,
+  "gym_days_10d": 5,
+  "days_10d": [
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true
+  ],
   "phase": "GZCLP"
 }
